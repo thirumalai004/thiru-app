@@ -8,7 +8,7 @@ app.get('/health', (req, res) => {
 });
 
 app.get('/', (req, res) => {
-  res.type('text').send('Hello Thiru - i am node app\n');
+  res.type('text').send('Hello Thiruma - i am node app\n');
 });
 
 app.listen(port, () => {

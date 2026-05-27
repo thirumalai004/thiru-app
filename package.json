@@ -1,5 +1,5 @@
 {
-  "name": "simple-thiru-app",
+  "name": "simple-git-repo",
   "version": "1.0.0",
   "description": "A minimal Node.js HTTP server",
   "main": "index.js",

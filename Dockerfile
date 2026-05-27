@@ -1,6 +1,6 @@
 FROM public.ecr.aws/docker/library/node:18
 
-WORKDIR /thiru-app
+WORKDIR /git-repo
 
 COPY package*.json ./
 
